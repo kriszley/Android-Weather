@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -17,6 +18,8 @@
 
 ### Android ###
 >>>>>>> c55d1a8191900101f36088ef2dae645401020760
+=======
+>>>>>>> f5feae9126c9c27062f63d0036ba0286e5ca2cf6
 =======
 >>>>>>> f5feae9126c9c27062f63d0036ba0286e5ca2cf6
 # Built application files
@@ -56,6 +59,7 @@ captures/
 # Intellij
 *.iml
 .idea/workspace.xml
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -143,6 +147,11 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 >>>>>>> c55d1a8191900101f36088ef2dae645401020760
+=======
+
+# Keystore files
+*.jks
+>>>>>>> f5feae9126c9c27062f63d0036ba0286e5ca2cf6
 =======
 
 # Keystore files
